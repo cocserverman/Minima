@@ -31,7 +31,7 @@
 
 ## About
 
-Minima shows what your machine is doing and nothing else. No cards, no borders, no icons. Large numbers set in light, generously spaced type; thin hairline bars carry the rest. It borrows its visual language from the editorial minimalism of the [Mond](https://www.deviantart.com/) skin by ApexXx-SenSei (monochrome palette, airy spacing, one signature display face) and applies it to hardware monitoring.
+Minima shows what your machine is doing and nothing else. No cards, no borders, no icons. Large numbers set in light, generously spaced type; thin hairline bars carry the rest. It borrows its visual language from the editorial minimalism of the [Mond](https://github.com/rmskins/mond) skin by ApexXx-SenSei (monochrome palette, airy spacing, one signature display face) and applies it to hardware monitoring.
 
 It is built for laptops as much as desktops: on machines with both an integrated and a discrete GPU, Minima shows **whichever GPU is actually working** and marks it with a small orange indicator.
 
