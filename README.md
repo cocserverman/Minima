@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cocserverman/minima-rainmeter/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/cocserverman/minima-rainmeter?style=flat-square&color=FF6A00&labelColor=101010"></a>
+  <a href="https://github.com/cocserverman/Minima/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/cocserverman/minima-rainmeter?style=flat-square&color=FF6A00&labelColor=101010"></a>
   <img alt="Rainmeter 4.5+" src="https://img.shields.io/badge/Rainmeter-4.5%2B-101010?style=flat-square">
   <img alt="Windows" src="https://img.shields.io/badge/platform-Windows-101010?style=flat-square">
   <img alt="Sensors by HWiNFO" src="https://img.shields.io/badge/sensors-HWiNFO-101010?style=flat-square">
