@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+  <title id="t">MINIMA</title>
+  <desc id="d">Typography-first system monitor for Rainmeter</desc>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="20" fill="#101010" stroke="#252525"/>
+  <path d="M60 60H1140M60 300H1140" stroke="#252525" stroke-width="1"/>
+
+  <g font-family="Quicksand,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="4" fill="#858585">
+    <text x="60" y="46">MINIMA / SYSTEM</text>
+    <text x="1140" y="46" text-anchor="end">V1.2</text>
+    <text x="60" y="330">RAINMETER SKIN</text>
+    <text x="1140" y="330" text-anchor="end">MIT LICENSE</text>
+  </g>
+
+  <!-- Wordmark: drawn as strokes, so it renders identically everywhere -->
+  <g fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-dasharray="1 1" stroke-dashoffset="0">
+    <!-- M -->
+    <path pathLength="1" d="M323 200V110L368 166L413 110V200">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0s" fill="freeze"/>
+    </path>
+    <!-- I -->
+    <path pathLength="1" d="M457 110V200">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0.15s" fill="freeze"/>
+    </path>
+    <!-- N -->
+    <path pathLength="1" d="M501 200V110L571 200V110">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0.3s" fill="freeze"/>
+    </path>
+    <!-- I (accent) -->
+    <path pathLength="1" stroke="#FF6A00" d="M615 110V200">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0.45s" fill="freeze"/>
+    </path>
+    <!-- M -->
+    <path pathLength="1" d="M659 200V110L704 166L749 110V200">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0.6s" fill="freeze"/>
+    </path>
+    <!-- A -->
+    <path pathLength="1" d="M793 200L835 110L877 200M809 166H861">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="0.9s" begin="0.75s" fill="freeze"/>
+    </path>
+  </g>
+
+  <text x="600" y="262" text-anchor="middle" font-family="Quicksand,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="500" letter-spacing="7" fill="#B8B8B8">TYPOGRAPHY-FIRST SYSTEM MONITOR FOR RAINMETER</text>
+  <text x="600" y="292" text-anchor="middle" font-family="Quicksand,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="8" fill="#858585">CPU &#183; RAM &#183; GPU &#183; STORAGE</text>
+
+  <rect x="596" y="316" width="8" height="8" fill="#FF6A00">
+    <animate attributeName="opacity" values="1;0.25;1" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
